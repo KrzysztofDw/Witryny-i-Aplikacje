@@ -1,0 +1,325 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Moja Strona</title>
+</head>
+<body>
+    <h1>Welcome to my webpage!</h1>
+    <p>This is my first HTML page.</p>
+</body>
+</html>
+
+<a name="skok_poczatek"></a>
+<br>
+<!DOCTYPE html>
+<html lang="pl-PL">
+
+<br>
+<a href="poczta_dworak.html">poczta</a>
+<br>
+<br>
+<A HREF="plik_dworak.html">plik</A> 
+<br>
+<br>
+<a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a>
+<br>
+<br>
+<a href="#skok_srodek">kliknij aby skoczyć do srodka tekstu</a>
+<br>
+<br>
+<a href="#skok_koniec">kliknij aby skoczyć do konica tekstu</a>
+<br>
+<br>
+<A HREF="tabela_dworak.html">tabela</A>
+<br>
+<br>
+<A HREF="formularz_dworak.html">formularz</A>
+<br>
+
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <title> Krzysztof Dworak      </title>
+</head>
+<body>
+Krzysztof Dworak
+<p align="right"> <font color="green" size="1" face="Arial"> Krzysztof </font> </p> <br>
+<p align="right"> <font color="green" size="2" face="Arial"> Krzysztof </font> </p> <br>
+<p align="right"> <font color="green" size="3" face="Arial"> Krzysztof </font> </p> <br>
+<p align="right"> <font color="green" size="4" face="Arial"> Krzysztof </font> </p> <br>
+<p align="right"> <font color="green" size="5" face="Arial"> Krzysztof </font> </p> <br>
+<p align="right"> <font color="green" size="6" face="Arial"> Krzysztof </font> </p> <br>
+<p align="right"> <font color="green" size="7" face="Arial"> Krzysztof </font> </p> <br>
+<h6> Dworak </h1><br>
+<h5> Dworak </h1><br>
+<h4> Dworak </h1><br>
+<h3> Dworak </h1><br>
+<h2> Dworak </h1><br>
+<h1> Dworak </h1><br>
+<p align="right"> <font color="purple" size="7" face="Arial"> 🙂 zadowolenie, uśmiech </font> </p> <br>
+<p align="right"> <font color="pink" size="2" face="Arial"> >:-) Zadowolenie (z powodu krzywdy, bólu itp.), szatański uśmiech </font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> 😐 Brak emocji </font> </p> <br>
+<p align="right"> <font color="yellow" size="4" face="Arial"> 😠 Złość </font> </p> <br>
+<p align="right"> <font color="green" size="5" face="Arial"> |-) Spanie </font> </p> <br>
+<p align="right"> <font color="blue" size="6" face="Arial"> >:D Szczęście </font> </p> <br>
+<p align="right">80-180 Gdańsk Częstochowska 101/34</p> <br>
+<p align="right"> <font color="green" size="4" face="Arial"> <u> Ulubiony aktor : Pazura Cezary</u> </font> </p> <br>
+<p>
+<p align="right"> <font color="blue" size="4" face="Arial">  <i>Ulubiony zespoł Black Sabbath <i/> </font> </p> <br>
+<p>
+<p align="right"> <font color="green" size="3" face="Arial"> Adres Zamieszkania :  </font> </p> <br>
+<p>
+<p> <p align="left"> <font color="red" size="5" face="Arial"> <b> Data Urodzenia : 17 grudnia 2008 <b/>:  </font> </p> <br>
+<p>
+<HR>
+
+<a name="skok_srodek"></a>
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Żarty</title>
+</head>
+<body>
+
+<!-- Żart o pracy na środku -->
+<center>
+    <h2 style="color: green;">Żart o pracy</h2>
+    <FIELDSET style="background-color: lightblue;">
+
+        <font color="green" size="3">
+            Pracownik banku próbuje wytłumaczyć klientowi zasady płacenia na raty. <br>
+            - Proszę pana, najpierw płaci pan niewielką sumę, a potem przez 3 miesiące nie płaci pan nic.<br>
+            Na to klient: <br>
+            - To pan mnie zna?
+        </font>
+    </FIELDSET>
+
+
+<HR SIZE=5 WIDTH=80% COLOR="blue">
+
+<!-- Żart o blondynkach z wyrównaniem do lewej -->
+<h2 style="color: purple; text-align: left;">O blondynkach</h2>
+<div style="text-align:left;">
+    <FIELDSET style="background-color: lightgreen;">
+        <font color="blue" size="3">
+            - Cześć Zenek, skąd dzwonisz, bo mi się numer nie wyświetla? <br>
+            - Z domofonu, idiotko!
+        </font>
+    </FIELDSET>
+</div>
+
+<HR align="RIGHT" SIZE=16 WIDTH=48% COLOR="green">
+
+<!-- Żart o szkole z wyrównaniem do prawej -->
+<h2 style="color: red; text-align: right;">Żart o szkole</h2>
+<div style="text-align:right;">
+    <FIELDSET style="background-color: lightblue;">
+        <font color="orange" size="3">
+            Wywiadówka w szkole: <br>
+            - Państwa dzieci są bardzo muzykalne. <br>
+            - Dlaczego? - pyta się mama Filipa.<br>
+            - Ciągle grają mi na nerwach!
+        </font>
+    </FIELDSET>
+</div>
+
+<!-- Ostatnia linia rozdzielająca -->
+<HR align="left" SIZE=11 WIDTH=30% COLOR="orange">
+
+</body>
+</html>
+  <br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<p align="right"> <font color="black" size="6" >  Krzysztof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dworak </font> </p> <br>
+<br>
+<br>
+<HR align="left" SIZE=20 WIDTH=100% COLOR="black">
+<br>
+<br>
+<p align="left">  <font color="green" size="7" >  </font>  </p> <br>
+
+<h2  style="color: red; text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;Główne typy USB </h2>
+
+<br>
+<a href="poczta_dworak.html">poczta</a>
+<br>
+<br>
+<A HREF="plik_dworak.html">plik</A> 
+<br>
+<br>
+<a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a>
+<br>
+<br>
+<a href="#skok_srodek">kliknij aby skoczyć do srodka tekstu</a>
+<br>
+<br>
+<a href="#skok_koniec">kliknij aby skoczyć do konica tekstu</a>
+<br>
+<br>
+<A HREF="tabela_dworak.html">tabela</A>
+<br>
+<br>
+<A HREF="formularz_dworak.html">formularz</A>
+<br>
+<filedset align="left"; color="lightred" >
+<UL>
+<LI> sieci komputerowe
+<UL>
+<LI> struktura sieci Internet
+<LI> protokół TCP/IP
+<LI> praktyczne podłączenie do Internetu
+</UL>
+<LI> usługi internetowe
+<UL>
+<LI> strony WWW
+<LI> poczta elektroniczna
+<LI> FTP
+<UL>
+</UL>
+</UL>
+</filedset>
+
+
+
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Główne Rodzaje USB</title>
+</head>
+<body>
+
+<h1 style="text-align: left;">Główne Rodzaje USB i Strukury Sieci Komp.</h1>
+
+<fieldset>
+    <legend style="text-align: left;">Sieci Komputerowe</legend>
+    <ul>
+        <li>Struktura sieci Internet
+            <ul>
+                <li>Protokół TCP/IP</li>
+                <li>Praktyczne podłączenie do Internetu</li>
+            </ul>
+        </li>
+        <li>Usługi internetowe
+            <ul>
+                <li>Strony WWW</li>
+                <li>Poczta elektroniczna</li>
+                <li>FTP</li>
+            </ul>
+        </li>
+    </ul>
+</fieldset>
+
+<ol type="A">
+    <li><strong>Typ A</strong>
+        <ul>         
+            <li><u>Type A - Standard</u></li>
+            <li><u>Type B - Dual-Link</u></li>
+            <li><u>Type C - Mini</u></li>
+            <li><u>Type D - Micro</u></li>
+            <li><u>Type E - Zawiera blokującą ochronę, aby kabel Typu Standard się nie ruszał</u></li>
+        </ul>
+    </li>
+    
+    <li><strong>Typ B</strong>
+        <ul>
+            <li><i>DVI-I - Przesyła dane cyfrowe i analogowe</i></li>
+            <li><i>DVI-D - Przesyła dane cyfrowe</i></li>
+            <li><i>DVI-A - Przesyła dane analogowe</i></li>
+        </ul>
+    </li>
+    
+    <li><strong>Typ C</strong>
+        <ul>
+            <li><i>DE-9 - Standard</i></li>
+            <li><i>DE-9M - Standard bez śrub mocujących</i></li>
+            <li><i>DA-15 - Złącze GamePort</i></li>
+            <li><i>DE-15F - Złącze VGA, SVGA i XGA</i></li>
+        </ul>
+    </li>
+    
+    <li><strong>Typ Micro USB</strong>
+        <ul>
+            <li><u>Jack 6,3mm</u></li>
+            <li><u>Jack 3,5mm (minijack)</u></li>
+            <li><u>Jack 2,5mm (microjack)</u></li>
+        </ul>
+    </li>
+    
+    <li><strong>Mini USB</strong>
+        <ul>
+            <li><i>USB</i>
+                <ul>
+                    <li><u>Type A (USB 1.0 & 2.0)</u></li>
+                    <li><u>Type B (USB 1.0 & 2.0)</u></li>
+                    <li><u>Mini A (USB 2.0)</u></li>
+                    <li><u>Mini B (USB 2.0)</u></li>
+                    <li><u>Mini AB (USB 2.0)</u></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ol>
+
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tekst w Ramce</title>
+    <style>
+       
+        .ramka {
+            border: 2px solid black; 
+            padding: 15px;           
+            background-color: grey;    
+            width: 300px;             
+            color: white;             
+        }
+    </style>
+</head>
+<body>
+
+<div class="ramka">
+    <br>
+    <a href="poczta_dworak.html">poczta</a>
+    <br><br>
+    <a href="plik_dworak.html">plik</a> 
+    <br><br>
+    <a href="#skok_poczatek">kliknij aby skoczyć na początek tekstu</a>
+    <br><br>
+    <a href="#skok_srodek">kliknij aby skoczyć do środka tekstu</a>
+    <br><br>
+    <a href="#skok_koniec">kliknij aby skoczyć do końca tekstu</a>
+    <br><br>
+    <a href="tabela_dworak.html">tabela</a>
+    <br><br>
+    <a href="formularz_dworak.html">formularz</a>
+    <br><br>
+</div>
+
+</body>
+</html>
+
+<a name="skok_koniec"></a>
+</body>
+</html>

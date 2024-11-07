@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+<head>
+ <meta charset="utf-8">
+ <title> </title>
+</head>
+<body>
+ </body>
+</html>
+------------------------------
+
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+<head>
+  <meta charset="utf-8">
+  <title> Krzysztof Dworak      </title>
+</head>
+<body>
+Krzysztof Dworak
+<p align="right"> <font color="green"
