@@ -9,6 +9,8 @@
     <p>This is my first HTML page.</p>
 </body>
 </html>
+<h1 style="text-align: left;">Walidacja</h1>
+
 
 <a name="skok_poczatek"></a>
 <br>
