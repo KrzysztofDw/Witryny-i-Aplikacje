@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Dane procesorowe - Tabela HTML</title>
+</head>
+<body>
+    <table border="3" bordercolor="blue" width="70%" cellpadding="5" cellspacing="2">
+        <caption align="top" style="font-size: 1.5em; font-weight: bold; color: darkblue;">Dane procesorowe - Przykład HTML</caption>
+        <thead style="background-color: lightgray;">
+            <tr>
+                <th>Model CPU</th>
+                <th>Taktowanie bazowe</th>
+                <th>Liczba rdzeni</th>
+                <th>Cache</th>
+                <th>Pobór mocy (TDP)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Intel Core i9-13900K</td>
+                <td>3.0 GHz</td>
+                <td>24 (8P + 16E)</td>
+                <td>36 MB</td>
+                <td>125 W</td>
+            </tr>
+            <tr>
+                <td>AMD Ryzen 9 7950X</td>
+                <td>4.5 GHz</td>
+                <td>16</td>
+                <td>64 MB</td>
+                <td>170 W</td>
+            </tr>
+            <tr>
+                <td rowspan="2" style="text-align: center; background-color: lightblue;">Intel Xeon</td>
+                <td>2.1 GHz</td>
+                <td>28</td>
+                <td>38.5 MB</td>
+                <td>205 W</td>
+            </tr>
+            <tr>
+                <td>2.3 GHz</td>
+                <td>24</td>
+                <td>33 MB</td>
+                <td>180 W</td>
+            </tr>
+        </tbody>
+    </table>
+    <p style="font-size: 0.9em; text-align: center;">
+        Źródło danych: Specyfikacje producentów, materiały marketingowe. Tabela opracowana na potrzeby zadania z HTML.
+    </p>
+</body>
+</html>
