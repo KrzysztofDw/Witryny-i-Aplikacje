@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Parametry procesorów (CPU)</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 20px auto;
+        }
+        caption {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: darkgreen;
+            margin-bottom: 10px;
+        }
+        th, td {
+            border: 2px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        thead {
+            background-color: lightgreen;
+            font-weight: bold;
+        }
+        tbody tr:nth-child(odd) {
+            background-color: lightyellow;
+        }
+        tbody tr:nth-child(even) {
+            background-color: lightblue;
+        }
+        .highlight {
+            background-color: orange;
+            font-weight: bold;
+        }
+        .footer {
+            background-color: lightgray;
+            text-align: center;
+            font-size: 1.2em;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <caption>Parametry procesorów (CPU)</caption>
+        <thead>
+            <tr>
+                <th>Nazwa procesora</th>
+                <th>Cena</th>
+                <th>Producent</th>
+                <th>Liczba rdzeni</th>
+                <th>Liczba wątków</th>
+                <th>Taktowanie</th>
+                <th>Turbo GHz</th>
+                <th>Dostępność na rynku</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Intel Core i9-13900K</td>
+                <td>4500 PLN</td>
+                <td>Intel</td>
+                <td>24</td>
+                <td>32</td>
+                <td>3.0 GHz</td>
+                <td>5.8</td>
+                <td rowspan="4" class="highlight">DOSTĘPNE</td>
+            </tr>
+            <tr>
+                <td>AMD Ryzen 9 7950X</td>
+                <td>5000 PLN</td>
+                <td>AMD</td>
+                <td>16</td>
+                <td>32</td>
+                <td>4.5 GHz</td>
+                <td>5.7</td>
+            </tr>
+            <tr>
+                <td>Intel Core i7-13700K</td>
+                <td>3000 PLN</td>
+                <td>Intel</td>
+                <td>16</td>
+                <td>24</td>
+                <td>3.4 GHz</td>
+                <td>5.4</td>
+            </tr>
+            <tr>
+                <td>AMD Ryzen 7 7700X</td>
+                <td>3000 PLN</td>
+                <td>AMD</td>
+                <td>8</td>
+                <td>16</td>
+                <td>4.5 GHz</td>
+                <td>5.4</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr class="footer">
+                <td colspan="8">DANE</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
